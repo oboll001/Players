@@ -1,6 +1,6 @@
 #This program will grab all information in the players_20.csv file located in
 #the data folder. It goes through multiple different functions to get the desired output
-#It uses the csv module to
+#It uses the csv module to make a dictionary for the data. Makes navigation of data easier
 
 import csv
 from matplotlib import pyplot as plt
